@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# 🍰 Bakery Shop - MERN App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A basic MERN (MongoDB, Express, React, Node.js) application featuring CRUD (Create, Read, Update, Delete) operations.
 
 ## Available Scripts
 
