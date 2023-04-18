@@ -22,5 +22,4 @@ Make a `POST request` to `http://localhost:8000/users/add` - when user is added 
 
 💡 Quick way to test api and add users here<https://insomnia.rest/download>
 
-
-
+After setting up the Admins, you can access the exclusive area and commence adding scrumptious cakes 🍰!
